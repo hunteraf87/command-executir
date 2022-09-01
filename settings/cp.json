@@ -1,0 +1,12 @@
+[
+  {
+    "question": "Что копировать ?",
+    "type": "input",
+    "param": "__from"
+  },
+  {
+    "question": "Куда копировать ?",
+    "type": "input",
+    "param": "__to"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "question": "Использовать широкий формат ?",
+    "type": "confirm",
+    "param": "-l"
+  },
+  {
+    "question": "Показывать файлы начинающиеся с . ?",
+    "type": "confirm",
+    "param": "-a"
+  },
+  {
+    "question": "Путь до директории",
+    "type": "input",
+    "param": "__dir"
+  }
+]

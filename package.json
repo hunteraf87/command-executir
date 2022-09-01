@@ -1,0 +1,18 @@
+{
+  "name": "command-executor",
+  "version": "1.0.0",
+  "author": {
+    "name": "Albert Tuitsyn",
+    "email": "hunteraf@mail.ru"
+  },
+  "description": "Console command executor",
+  "main": "dist/index.js",
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^9.1.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.1"
+  },
+  "license": "MIT"
+}
